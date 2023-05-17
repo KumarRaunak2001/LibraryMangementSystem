@@ -5,8 +5,6 @@ The ‘Library Management system’ undertaken as a project is based on relevant
 Hence in the existing system for LIBRARY MANAGEMENT SYSTEM, the performance evaluation system and the maintenance are done manually. The proposed system will maintain 
 
 
-The few of the working images of the project and database is described below:
-
 
 <img src="Screenshot (10).png">
 <img src="Screenshot (11) - Copy.png">
